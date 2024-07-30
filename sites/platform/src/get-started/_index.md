@@ -1,4 +1,4 @@
----
+---AuroracoinBot
 title: Get started
 weight: -110
 description: |
